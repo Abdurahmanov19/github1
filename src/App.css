@@ -17,6 +17,9 @@
     font-family: 'Arial', sans-serif;
 }
 
+.heading2{
+    color: pink;
+}
 .buttons{
     display: flex;
     gap: 30px;

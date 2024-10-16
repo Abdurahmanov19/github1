@@ -23,7 +23,9 @@ function App() {
                     -
                 </button>
             </div>
-
+            <h2 className="heading2">
+                Justin
+            </h2>
         </div>
     );
 }
