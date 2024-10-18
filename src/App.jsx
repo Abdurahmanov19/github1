@@ -39,9 +39,9 @@ function App() {
                     /
                 </button>
             </div>
-            <h2 className="heading2">
-                Guldeste
-            </h2>
+            <h3>
+                sldaldsaldls
+            </h3>
         </div>
     );
 }
